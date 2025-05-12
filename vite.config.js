@@ -9,8 +9,8 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        short_name: "HaritaHız",
-        name: "Harita & Hız Gözlem Uygulaması",
+        short_name: "TrafikHız",
+        name: "Trafik Hız Gözlemcisi",
         icons: [
           {
             src: "/icon-192x192.png",
